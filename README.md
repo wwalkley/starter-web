@@ -8,9 +8,11 @@ This is an example to show different parts of the git repo and various commands 
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos for git training.
 
 ## Deployment
+
+This is a sample.
 
 ## How To Contribute
 
