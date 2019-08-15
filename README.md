@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is simple website template repository for showing how Git and GitHub work. 
+This is simple website template repository for showing how Git and GitHub work. Adding a line for reabse exmaple.
 
 ## Introduction
 
