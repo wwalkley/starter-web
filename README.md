@@ -16,3 +16,7 @@ This is a sample.
 
 ## How To Contribute
 
+## Copyright
+
+Git Training 2019
+
